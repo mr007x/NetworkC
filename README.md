@@ -1,2 +1,2 @@
-# NetworkC
-Network Programming with C
+# Network C
+Network Programming with C.
